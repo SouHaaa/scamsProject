@@ -1,0 +1,10 @@
+com\scams\modeles\Contact.class
+com\scams\services\QuotationService.class
+com\scams\modeles\Vehicule.class
+com\scams\services\RulesAnnonceService.class
+com\scams\modeles\Phone.class
+com\scams\services\BlackListedService.class
+com\scams\modeles\Rule.class
+com\scams\modeles\Annonce.class
+com\scams\App.class
+com\scams\modeles\Result.class
